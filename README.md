@@ -1,4 +1,4 @@
-## Hi 👋, I'm Nurul Akhni
+## Hi there👋
 2 Yoe Software Engineer with focus both in frontend & backend web development
 
 ## 💻 Tech Stack:
