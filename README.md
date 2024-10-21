@@ -1,4 +1,5 @@
 Hi there👋, I'm Nurul
+
 2 Yoe Software Engineer with focus both in frontend & backend web development
 
 💻 Tech Stack:
